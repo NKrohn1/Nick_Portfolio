@@ -3,7 +3,7 @@
 ## Education:
    
   ### Western Carolina University   
-  B.S. Applied Mathematics, Economics Minor   
+  B.S. Applied Mathematics; Economics Minor   
   ### Western Piedmont Community College
   A.S. Science
 
