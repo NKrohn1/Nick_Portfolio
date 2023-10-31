@@ -3,8 +3,8 @@
 ## Education:
    
   ### Western Carolina University   
-  BS Applied Mathematics, Economics Minor   
+  B.S. Applied Mathematics, Economics Minor   
   ### Western Piedmont Community College
-  AS Science
+  A.S. Science
 
 # [Project 1:](nkrohn1.github.io)
