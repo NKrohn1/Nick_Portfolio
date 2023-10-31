@@ -1,7 +1,7 @@
 # Nick Krohn Data Analytics Portfolio
 
 ## Education:
-Applied Mathematics, BS   
-Science, AS
+BS Applied Mathematics   
+AS Science
 
 # [Project 1:](nkrohn1.github.io)
