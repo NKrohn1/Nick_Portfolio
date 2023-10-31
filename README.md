@@ -1,2 +1,2 @@
-# Nick-s_Portfolio
+# Nicks_Portfolio
 Data Analytics Portfolio
